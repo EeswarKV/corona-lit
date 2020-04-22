@@ -21,6 +21,10 @@
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eshwar4299/corona-lit.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
