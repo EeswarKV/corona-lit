@@ -1,6 +1,8 @@
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/owner/my-element)
+
 # corona-lit
 
-A simple Hello World for LitElement.
+A simple corona status lit component.
 
 ## Quick start
 
