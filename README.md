@@ -36,3 +36,17 @@ cd corona-lit
 npm install
 npm run dev
 ```
+
+```
+<custom-element-demo>
+  <template>
+    <link rel="import" href="my-element.html">
+    <link rel="import" href="../src/app/corona-lit.js">
+    <next-code-block></next-code-block>
+  </template>
+</custom-element-demo>
+```
+
+```html
+<corona-lit></corona-lit>
+```
