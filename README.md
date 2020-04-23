@@ -24,7 +24,7 @@ npm run dev
 ### Clone this repo
 
 ```
-git clone https://github.com/Eshwar4299/getting-started-lit-wc
+git clone https://github.com/Eshwar4299/corona-lit
 ```
 
 ### Start a dev server
