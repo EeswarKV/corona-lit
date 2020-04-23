@@ -1,6 +1,7 @@
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/owner/my-element)
 
 # corona-lit
+## A simple covid19 status lit component.
 
 A simple corona status lit component.
 
