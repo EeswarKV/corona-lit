@@ -24,7 +24,7 @@ npm run dev
 ### Clone this repo
 
 ```
-git clone https://github.com/Eshwar4299/getting-started-lit-wc
+git clone https://github.com/Eshwar4299/corona-lit
 ```
 
 ### Start a dev server
@@ -35,4 +35,18 @@ npm install --save-dev @webcomponents/webcomponentsjs
 cd corona-lit
 npm install
 npm run dev
+```
+
+```
+<custom-element-demo>
+  <template>
+    <link rel="import" href="my-element.html">
+    <link rel="import" href="../src/app/corona-lit.js">
+    <next-code-block></next-code-block>
+  </template>
+</custom-element-demo>
+```
+
+```html
+<corona-lit></corona-lit>
 ```
