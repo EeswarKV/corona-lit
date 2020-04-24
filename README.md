@@ -28,6 +28,8 @@ npm run dev
 git clone https://github.com/Eshwar4299/corona-lit
 ```
 
+![](src/images/screenshot.png)
+
 ### Start a dev server
 
 ```
